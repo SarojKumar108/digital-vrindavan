@@ -1,0 +1,25 @@
+# backend
+backend/node_modules/
+backend/.env
+backend/.vscode/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Optional: coverage folder if using testing
+coverage/
+
+# Optional: build folders if you have frontend builds
+dist/
+build/
